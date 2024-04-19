@@ -1,4 +1,5 @@
 # BG-Sales-Analysis
+
 <img width="709" alt="Screen Shot 2024-04-18 at 18 48 23" src="https://github.com/PATRICK079/BG-Sales-Analysis/assets/157173680/c2d7a8e4-c362-4b1d-af75-5eb1b9f37f87">
 
  # INTRODUCTION
@@ -55,6 +56,35 @@ The following steps were done in order to get the data ready for analysis.
 
 # Findings and Recommendations 
 
+1.  Which shopping city has the highest sales volume?
+
+
+## Insights/findings 
 
 
  
+
+1. Top Performing Shop Cities by Sales:
+   
+    Laurel leads with sales of $2.4 million.
+   
+    Following closely behind, Charleston recorded $2.1 million in sales.
+   
+    Pasadena has the third highest sales at $1.9 million.
+
+2. Sales Distribution:
+   
+    The sales distribution among the cities shows that the top three cities (Laurel, Charleston, and Pasadena) contribute significantly to the overall sales figures.
+
+3. Performance Gap:
+       
+     There's a notable gap between the top-performing city (Laurel) and the third city (Pasadena), with a    difference of $0.5 million.
+
+5. Opportunities for Improvement:
+
+    While Laurel is the top performer, there might be opportunities to boost sales in cities like Pasadena, which has slightly lower sales compared to Charleston and Laurel.
+
+
+ # VISUALIZATION
+
+
